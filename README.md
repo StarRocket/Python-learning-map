@@ -5,6 +5,7 @@
 為甚麼要學 Python？自 1994年正式發表至今超過 20多年，已經遍佈各重要科技趨勢當中，如：數據分析、IOT 軟硬整合、人工智慧、機器人開發等重要領域，事個不可或缺的重要語言，如今更是開發出多種資料庫及套件廣泛應用在雲端服務平台上；現今使用 Python 為後端重要程式語言的新創企業如 Pinterest、Uber、instagram、Youtube 等（[參考文章](https://www.jianshu.com/p/e3df3b024b6c)），Python 語言近年更是興起成為全球最高薪的程式語言之一（文章：[中文](http://technews.tw/2017/12/21/2018-5-high-paid-in-demand-programming-language/) / [英文](https://www.techrepublic.com/article/five-highly-paid-and-in-demand-programming-languages-to-learn-in-2018/)），透過絕佳的跨平台支援性，在不同尺寸、系統設備上，操作同樣的語言環境，更是普遍使用在大數據與資料分析的領域，在全球軟硬體開發領域具有舉足輕重的地位。
 
 Python 程式語言的特色：
+
 1. 數據分析領域通用語言：簡單且強大。
 2. 語意認識易讀和易撰寫：直白且清楚。
 3. 各類領域應用功能強大：應用且多元。
@@ -13,11 +14,13 @@ Python 程式語言的特色：
 本次課程活動：[連結](https://www.accupass.com/event/1812110559434772340930)
 
 ## 本次課程大綱：
+
 * Python 可以作甚麼？
 * Python 學習地圖是甚麼？
 * Python 各階段學習目標與時間性？
 
 ## 課程學習摘要：
+
 以下內容為經由課程隨堂筆記和上課簡報的重點彙整。
 
 1. 程式開發常見工作職位：(和 Python 無關，軟體開發領域慨況)
@@ -35,10 +38,10 @@ Python 程式語言的特色：
         1. 視覺與網頁切版：HTML、CSS
         2. 互動式網頁：JavaScript
     2. Backend Developer（後端開發）：與 Python 有關，談到後端亂成一團，學 Python 有機會幫公司架設出一個網站，例如：電商網站。具有 Python 初階程度能有基本工作條件，但需要看很多面向，首先會需要考慮你的「程式語言」，Python 是其中一個選擇，選完會有需要學習對應的「框架」，接者是選擇「資料庫」，再來選擇「雲端服務」，如果選擇後端開發就要學習雲端服務。後端工程師需要把這整串學起來，最後才是選擇「延伸性領域」。
-        1. 程式語言：Python、PHP、Java ...
-        2. 框架：Flask、Django、Laravel …
-        3. 資料庫：PostgreSQL、MySQL、MongoDB …
-        4. 雲端服務：AWS、GCP、Azure …
+        1. 程式語言：Python、PHP、Java
+        2. 框架：Flask、Django、Laravel
+        3. 資料庫：PostgreSQL、MySQL、MongoDB
+        4. 雲端服務：AWS、GCP、Azure
         5. 延伸領域：Blockchain、IOT
     3. App Developer（產品開發）：並無與 Python 直接相關。
         1. Android：Java、Kotlin
@@ -100,9 +103,11 @@ Python 程式語言的特色：
        Ａ：團隊的員工會寫一點程式，手上其實有很多Excel資料，用 Python 就可以分析，用程式自動化展現出來就是個有用的事情，但可能不會是像學習 Excel 這麼容易就是了。
 
 ## 講師介紹
+
 彭兆蔚 - 彭彭：台大心理系、台大資工所畢業、美商昇陽 (Sun Microsystems) 校園大使、資策會軟體工程師、Tomofun 網站工程師、網頁多人線上遊戲開發、Piconion 影像處理軟體開發、類神經網路、人工智慧教學展示、COSCUP 2010、JSDC 2017 講師、iThome Modern Web 2016 - 2018 講師、世新大學、十年創業經驗；[講師相關學習資源](https://training.pada-x.com/)。
 
-## 本次課程資源：
+## 本次課程資源
+
 * 完整簡報：[連結](http://bit.ly/2SO7oim)
 * 閱讀書籍：[如何寫出乾淨的程式碼 Clean Code](https://www.books.com.tw/products/0010579897)
 * 課程照片：[連結](https://drive.google.com/drive/folders/1HM54EvTAxyJUGOHzVcupI_3v1s753dRt?usp=sharing)
