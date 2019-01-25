@@ -1,4 +1,4 @@
-# 【Star Rocket】Python 學習地圖與攻略
+# Python 學習地圖與攻略
 
 近年爆紅的程式語言之一 Python 程式語言，每個人對它的認識與憧憬，以及學習或開發目標皆不盡相同，坊間無論是線上線下都出現了許多學習資源，往往造成真正想學習的人迷失了方向，更是有許多半路出家的人多走了許多冤妄路，浪費了許多時間，我們都明白，因此，我們希望透過更直白的方式，讓大家一覽 Python 程式語言的學習藍圖及歷程。
 
@@ -111,3 +111,8 @@ Python 程式語言的特色：
 * 完整簡報：[連結](http://bit.ly/2SO7oim)
 * 閱讀書籍：[如何寫出乾淨的程式碼 Clean Code](https://www.books.com.tw/products/0010579897)
 * 課程照片：[連結](https://drive.google.com/drive/folders/1HM54EvTAxyJUGOHzVcupI_3v1s753dRt?usp=sharing)
+
+## 關於本攻略
+
+本攻略由 Star Rocket 三創育成基金會整理分享。
+
