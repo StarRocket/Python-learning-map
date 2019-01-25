@@ -114,5 +114,5 @@ Python 程式語言的特色：
 
 ## 關於本攻略
 
-本攻略由 Star Rocket 三創育成基金會整理分享。
+本攻略由 Star Rocket 三創育成基金會整理分享，採用[姓名標示-相同方式分享 4.0 國際 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW)授權。
 
